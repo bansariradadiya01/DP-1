@@ -21,4 +21,6 @@ public class HouseRobber {
 
         System.out.println(rob(nums));
     }
-}
+} // Output: 12 (rob house 1, 3, and 5)
+//Time Complexity: O(n) where n is the number of houses.
+//Space Complexity: O(n) for the dp array.  

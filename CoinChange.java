@@ -31,3 +31,6 @@ public class CoinChange {
     }
     
 }
+// Output: 3 (11 can be made with 5 + 5 + 1)
+// Time Complexity: O(n*m) where n is the number of coins and m is the amount.
+// Space Complexity: O(n*m) for the dp array.   
